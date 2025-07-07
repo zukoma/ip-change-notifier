@@ -1,6 +1,10 @@
 # ip-change-notifier
 Checks for IP changes and sends an email if ti does.
 
+# Getting Gmail App password
+
+https://myaccount.google.com/apppasswords
+
 # Installation
 
 1. Git Clone `git@github.com:zukoma/ip-change-notifier.git`
